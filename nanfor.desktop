@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Terminal=false
+Encoding=UTF-8
+Version=1.1
+Name=nanfor
+Exec=google-chrome https://campus.nanfor.com
+Icon=/home/joaquin/icons/nanfor.jpg

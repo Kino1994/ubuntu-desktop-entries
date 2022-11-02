@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Application
+Terminal=false
+Encoding=UTF-8
+Version=1.1
+Name=intellij
+Exec=/home/joaquin/Intellij/bin/idea.sh
+Icon=/home/joaquin/Intellij/bin/idea.svg

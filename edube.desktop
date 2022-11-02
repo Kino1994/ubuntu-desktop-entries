@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Terminal=false
+Encoding=UTF-8
+Version=1.1
+Name=edube
+Exec=google-chrome https://edube.org/login
+Icon=/home/joaquin/icons/edube.png

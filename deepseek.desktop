@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Terminal=false
+Encoding=UTF-8
+Version=1.1
+Name=deepseek
+Exec=google-chrome https://chat.deepseek.com/
+Icon=/home/joaquin/icons/deepseek.png

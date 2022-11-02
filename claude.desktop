@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Terminal=false
+Encoding=UTF-8
+Version=1.1
+Name=claude
+Exec=google-chrome https://claude.ai/
+Icon=/home/joaquin/icons/claude.png

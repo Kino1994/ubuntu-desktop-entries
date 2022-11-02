@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Terminal=false
+Encoding=UTF-8
+Version=1.1
+Name=latex
+Exec=google-chrome https://www.overleaf.com/
+Icon=/home/joaquin/icons/overleaf.png

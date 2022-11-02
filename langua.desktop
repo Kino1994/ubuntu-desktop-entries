@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Terminal=false
+Encoding=UTF-8
+Version=1.1
+Name=langua
+Exec=google-chrome https://languatalk.com/users/sign_in
+Icon=/home/joaquin/icons/langua.png

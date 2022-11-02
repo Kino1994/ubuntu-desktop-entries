@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Terminal=false
+Encoding=UTF-8
+Version=1.1
+Name=cisco
+Exec=google-chrome https://www.netacad.com/
+Icon=/home/joaquin/icons/cisco.png

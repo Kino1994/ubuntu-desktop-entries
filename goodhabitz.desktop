@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Terminal=false
+Encoding=UTF-8
+Version=1.1
+Name=goodhabitz
+Exec=google-chrome https://my.goodhabitz.com/
+Icon=/home/joaquin/icons/goodhabitz.jpg

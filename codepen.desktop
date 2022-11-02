@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Terminal=false
+Encoding=UTF-8
+Version=1.1
+Name=codepen
+Exec=google-chrome https://codepen.io/pen
+Icon=/home/joaquin/icons/codepen.png

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Terminal=false
+Encoding=UTF-8
+Version=1.1
+Name=Microsoft Learn
+Exec=google-chrome https://learn.microsoft.com/es-es/training/
+Icon=/home/joaquin/icons/microsoftlearn.png

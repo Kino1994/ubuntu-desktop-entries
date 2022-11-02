@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Terminal=false
+Encoding=UTF-8
+Version=1.1
+Name=promox
+Exec=https://cronos.dte.us.es:8006/
+Icon=/home/joaquin/icons/promox.png

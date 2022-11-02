@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Terminal=false
+Encoding=UTF-8
+Version=1.1
+Name=Cloud Skill Boost
+Exec=google-chrome https://www.cloudskillsboost.google/journeys
+Icon=/home/joaquin/icons/googlecloudskill.png

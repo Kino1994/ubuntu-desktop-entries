@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Terminal=false
+Encoding=UTF-8
+Version=1.1
+Name=chatgpt
+Exec=google-chrome https://chat.openai.com/
+Icon=/home/joaquin/icons/chatgpt.png

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Terminal=false
+Encoding=UTF-8
+Version=1.1
+Name=pue
+Exec=google-chrome https://lms.pue.es/login/index.php
+Icon=/home/joaquin/icons/pue.png

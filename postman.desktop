@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Terminal=false
+Encoding=UTF-8
+Version=1.1
+Name=postman
+Exec=env GTK_IM_MODULE=ibus /home/joaquin/Postman/PostmanCanary
+Icon=/home/joaquin/icons/postman.png

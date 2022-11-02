@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Terminal=false
+Encoding=UTF-8
+Version=1.1
+Name=udemy
+Exec=google-chrome https://www.udemy.com/
+Icon=/home/joaquin/icons/udemy.png

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Terminal=false
+Encoding=UTF-8
+Version=1.1
+Name=openenglish
+Exec=google-chrome https://learningplatform.openenglish.com/login.html
+Icon=/home/joaquin/icons/openenglish.png

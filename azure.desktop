@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Terminal=false
+Encoding=UTF-8
+Version=1.1
+Name=Azure
+Exec=google-chrome https://portal.azure.com
+Icon=/home/joaquin/icons/azure.png

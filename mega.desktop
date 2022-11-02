@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Terminal=false
+Encoding=UTF-8
+Version=1.1
+Name=mega
+Exec=google-chrome https://mega.nz/login
+Icon=/home/joaquin/icons/mega.png

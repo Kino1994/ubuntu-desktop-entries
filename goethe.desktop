@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Terminal=false
+Encoding=UTF-8
+Version=1.1
+Name=goethe
+Exec=google-chrome https://login.goethe.de/
+Icon=/home/joaquin/icons/goethe.png

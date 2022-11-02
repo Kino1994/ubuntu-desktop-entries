@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Terminal=false
+Encoding=UTF-8
+Version=1.1
+Name=Qwiklabs
+Exec=google-chrome https://googlecloud.qwiklabs.com/journeys
+Icon=/home/joaquin/icons/qwiklabs.png

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Terminal=false
+Encoding=UTF-8
+Version=1.1
+Name=dbt
+Exec=google-chrome https://cloud.getdbt.com/login
+Icon=/home/joaquin/icons/dbt.png

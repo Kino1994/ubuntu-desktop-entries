@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Terminal=false
+Encoding=UTF-8
+Version=1.1
+Name=linux
+Exec=google-chrome https://trainingportal.linuxfoundation.org/access/saml/login
+Icon=/home/joaquin/icons/linux.png

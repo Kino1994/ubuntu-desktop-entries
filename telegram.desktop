@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Application
+Terminal=false
+Encoding=UTF-8
+Version=1.1
+Name=telegram
+Exec=env GTK_IM_MODULE=ibus /home/joaquin/Telegram/telegram
+Icon=/home/joaquin/icons/telegram.png

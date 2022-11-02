@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Terminal=false
+Encoding=UTF-8
+Version=1.1
+Name=databricks
+Exec=google-chrome https://accounts.cloud.databricks.com/
+Icon=/home/joaquin/icons/databricks.png

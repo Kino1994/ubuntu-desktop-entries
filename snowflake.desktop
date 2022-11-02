@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Terminal=false
+Encoding=UTF-8
+Version=1.1
+Name=snowflake
+Exec=google-chrome https://app.snowflake.com/
+Icon=/home/joaquin/icons/snowflake.png

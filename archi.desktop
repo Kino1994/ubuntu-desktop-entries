@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Terminal=false
+Encoding=UTF-8
+Version=1.1
+Name=archi
+Exec=env GTK_IM_MODULE=ibus /home/joaquin/archi/Archi
+Icon=/home/joaquin/archi/icon.xpm

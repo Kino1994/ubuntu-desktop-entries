@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Terminal=false
+Encoding=UTF-8
+Version=1.1
+Name=measureup
+Exec=google-chrome https://www.measureup.com/
+Icon=/home/joaquin/icons/measureup.png

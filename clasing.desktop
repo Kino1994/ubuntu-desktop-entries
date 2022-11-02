@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Terminal=false
+Encoding=UTF-8
+Version=1.1
+Name=clasing
+Exec=google-chrome https://portal.clasingelts.com/es/student/login/
+Icon=/home/joaquin/icons/clasing.jpeg

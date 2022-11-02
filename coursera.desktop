@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Terminal=false
+Encoding=UTF-8
+Version=1.1
+Name=coursera
+Exec=google-chrome https://www.coursera.org/
+Icon=/home/joaquin/icons/coursera.png
